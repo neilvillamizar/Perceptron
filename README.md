@@ -3,6 +3,6 @@ A simple implementation of a Perceptron written in c++ for the subject "Introduc
 
 Use the makefile to compile with the make command.
 
-Run the project with ./perceptron
+Run the project with ./perceptron (unzip the mnist_train.zip file before run it)
 
 autor: Neil Villamizar
